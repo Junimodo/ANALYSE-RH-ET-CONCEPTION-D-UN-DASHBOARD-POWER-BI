@@ -1,3 +1,4 @@
+<img width="1443" height="796" alt="informations complètes" src="https://github.com/user-attachments/assets/fc5f14c4-38a1-4f25-9d85-cc882f644e84" />
 🗝️ Finalité du projet : 
 
 Analyser les ventes des boutiques réparties sur trois continents en explorant les performances commerciales afin d'identifier les tendances et les opportunités d'expansion.
