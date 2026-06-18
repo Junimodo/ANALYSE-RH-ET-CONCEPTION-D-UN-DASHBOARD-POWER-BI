@@ -1,3 +1,4 @@
+#ANALYSE-RH-ET-CONCEPTION-D-UN-DASHBOARD-POWER-BI
 <img width="1437" height="801" alt="dashboard" src="https://github.com/user-attachments/assets/e13baa9e-e12b-4db3-92de-64f7690c9640" />
 <img width="1443" height="796" alt="informations complètes" src="https://github.com/user-attachments/assets/fc5f14c4-38a1-4f25-9d85-cc882f644e84" />
 🗝️ Finalité du projet : 
@@ -14,7 +15,8 @@ Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation
 
 📊 Résultats :
 
-• Amérique du Nord : Les ventes ont augmenté de 5% au dernier trimestre, soutenues par une forte demande en ligne. • Europe : Malgré une légère baisse de 2%, certaines régions montrent des signes de reprise. • Asie : Les ventes ont stagné, mais des marchés émergents comme l'Indonésie et les Philippines offrent des opportunités de croissance.
+• Amérique du Nord : Les ventes ont augmenté de 5% au dernier trimestre, soutenues par une forte demande en ligne. • Europe : Malgré une légère baisse de 2%, certaines régions montrent des signes de reprise. • Asie : Les ventes ont stagné, mais des marchés émergents comme l'Indonésie et les Philippines offrent des opportunités de 
+croissance.
 
 📈 Tendances observées :
 
