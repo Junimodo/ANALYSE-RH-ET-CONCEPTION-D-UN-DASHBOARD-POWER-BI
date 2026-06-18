@@ -1,3 +1,4 @@
+<img width="1437" height="801" alt="dashboard" src="https://github.com/user-attachments/assets/e13baa9e-e12b-4db3-92de-64f7690c9640" />
 <img width="1443" height="796" alt="informations complètes" src="https://github.com/user-attachments/assets/fc5f14c4-38a1-4f25-9d85-cc882f644e84" />
 🗝️ Finalité du projet : 
 
